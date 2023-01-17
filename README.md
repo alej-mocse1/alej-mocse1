@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">🚀 Soy Full Stack Web Developer, graduado en Soy Henry . tengo 21 años y soy de junin(Buenos Aires)</div>  
+### <div align="center">🚀 Soy Full Stack Web Developer, graduado en Soy Henry. Soy de junin(Buenos Aires) y tengo 21 años</div>  
   
 
 - 👨‍💻 Tengo experiencia trabajando con HTML5, CSS3, JavaScript, React.js, Node.js, Express.js,  Redux , SQL , Sequelize(entre otras tecnologias).
